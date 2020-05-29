@@ -13,7 +13,7 @@
 
 void main()
 {
-  var object1=new Student('Umer Khan', 1912); // One Object, and Object1 is reference variable // Default Constructor
+  var object1=new Student('Umer Khan', 1912); // One Object, and Object1 is reference variable
   //print('Values are: ${object1.ID} and ${object1.name}');
 
   var object2=Student('Ali', 1919);  // One Object, and Object2 is reference variable // Parametarized Constructor
